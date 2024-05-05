@@ -1,6 +1,8 @@
 title : "Payment Methods"
 id: "payments"
-content: ""
+content: |
+  Need to pay a <b>deposit</b> to secure your date, the <b>balance</b> at your event, or a <b>tip</b>?
+  We accept several forms of payment for your convenience.
 style: "style1 medium onscroll-fade-in"
 items:
   - name : "Check"
@@ -13,7 +15,7 @@ items:
     icon: "solid style2 major fa-money-bill"
     content : |
       Please do not mail cash for a deposit!
-      <p/>
+      <br>
       Cash is gladly accepted for the final balance and tip at your event.
 
   - name : "Zelle"

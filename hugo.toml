@@ -40,5 +40,5 @@ description = "Southern California callers and DJs for your party, community, ba
 favicon = true
 
 [Params.asset]
-fontawesome_css = ["css/fontawesome.min.css", "css/regular.min.css", "css/solid.min.css"]
+fontawesome_css = ["css/fontawesome-all.min.css"]
 fontawesome_js = []
