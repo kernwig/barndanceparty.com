@@ -1,0 +1,30 @@
+title : "Payment Methods"
+id: "payments"
+content: ""
+style: "style1 medium onscroll-fade-in"
+items:
+  - name : "Check"
+    icon: "solid style2 major fa-money-check"
+    content : |
+      Adam or Diana Fanello<br>
+      PO Box 626, Silverado, CA 92676
+
+  - name : "Cash"
+    icon: "solid style2 major fa-money-bill"
+    content : |
+      Please do not mail cash for a deposit!
+      <p/>
+      Cash is gladly accepted for the final balance and tip at your event.
+
+  - name : "Zelle"
+    content : "info@barndanceparty.com"
+    thumb: "images/payments/zelle-logo.png"
+
+  - name : "Paypal"
+#    icon: "brands style2 major fa-paypal"
+    content : "@barndanceparty"
+    thumb: "images/payments/paypal-qr.png"
+
+  - name : "Venmo"
+    content : "@barndanceparty"
+    thumb: "images/payments/venmo-qr.png"

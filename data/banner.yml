@@ -1,0 +1,49 @@
+####################### Banner #########################
+style: "style3 orient-left content-align-center image-position-center fullscreen onload-image-fade-in onload-content-fade-right"
+id: "top"
+title: "Barn Dance Party"
+subtitle: "Music and callers for your party! 🎉"
+image: "images/logo-circle-wood-small.png"
+content: |
+  <p>
+    Anybody can stream some music from their phone into a little speaker.
+    Any DJ will be happy to setup a good sound system and play same rocking music, as your guests sit and talk.
+  </p>
+  <p>We’re different. 🤔</p>
+  <p>
+    We’ll setup the sound. We’ll play the music. The difference when you hire callers is: We get people dancing! 💃🕺
+  </p>
+  <p>
+    Want to line dance? We’ll show you the moves. A bit of contra? We’ve got you covered. 
+    Want to learn America’s official folk dance? We’ll teach your group to square dance in as little as half an hour!
+  </p>
+  <p>
+    We’re a husband & wife duo, doing what we love! 😍
+  </p>
+  <p>
+    Keep reading to learn more about us and what we offer…
+  </p>
+#button:
+#  label : "Learn More"
+#  link : "#first"
+buttons:
+  - row:
+      - label: "🎤 Your Callers & DJs"
+        link: "#callers"
+        style: "primary"
+      - label: "What We Offer"
+        link: "#offerings"
+        style: "primary icon solid fa-music"
+      - label: "Contact"
+        link: "#contact"
+        style: "primary icon solid fa-phone"
+  - row:
+      - label: "🔎 Past Highlights"
+        link: "#highlights"
+      - label: "Equipment & Fees"
+        link: "#equipment"
+        style: "icon solid fa-volume-high"
+      - label: "Payment Methods"
+        link: "#payments"
+        style: "icon solid fa-cart-shopping"
+

@@ -1,0 +1,50 @@
+title : "Your Callers & DJs"
+id: "callers"
+content: ""
+style: "style1 medium onscroll-fade-in"
+items:
+  - name : "Diana Fanello 💃"
+    thumb: "images/callers/diana.jpg"
+    content : |
+      <p>
+        Diana’s first passion has always been in music. 
+        She’s been learning, playing, and collecting since her teen years, when she also frequented dance clubs and
+        took up square dancing with her family.
+      <p/>
+      <p>
+        After some years off to raise her own family, she returned to the world of squares in 2012 and a few years later,
+        started to call square dancing. As a life-long teacher, Diana has a particular love of introducing children to dance. 
+        As a music aficionado with over ten thousand songs in her collection, becoming a DJ as well was a natural move
+      </p>
+
+  - name : "Adam Fanello 🕺"
+    thumb: "images/callers/adam.jpg"
+    content : |
+      <p>
+        Adam discovered his latent dance skills in the early 2000’s. Combined with his passion for sharing knowledge, 
+        he immediately took to assisting in square dance classes as an “angel” dancer. 
+        That has since led to learning to lead the class as a square dance caller.
+      </p>
+      <p>
+        While his first love is the social atmosphere of a square, don’t be surprised if he jumps in to show you the way in lines,
+        contra, ballroom, or free styling!
+      </p>
+      <p>
+        Adam is making his mark in the world of square dancing as the author of the 
+        <a href="https://sqac.fanello.net/" target="sqac">Square Auto-Choreographer</a> and
+        <a href="https://kernwig.github.io/squarecue/" target="squarecue">SquareCue</a> apps,
+        sharing innovative tools with other callers.
+      </p>
+
+  - name : "Adam & Diana 💃🕺"
+    thumb: "images/callers/couple.jpg"
+    content : |
+      <p>
+        Adam and Diana met in 2012 in square dance class; Adam as an “angel” helper and Diana returning to the activity.
+        In 2014, they married to become the dynamic duo you see today.
+      </p>
+      <p>
+        With Diana’s deep music insights and Adam’s technical dance attunement, 
+        this complementary pair can fulfill your every dance need.
+      </p>
+

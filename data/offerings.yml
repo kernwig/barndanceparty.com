@@ -1,0 +1,57 @@
+title : "What We Offer"
+id: "offerings"
+content: ""
+style: "style3 small onscroll-fade-in"
+items:
+  - name : "Teaching 🧑‍🏫"
+    thumb: "images/offerings/ballroom2.jpg"
+    content : |
+      We don’t just stand around and play music. We can show you how it’s done! 
+      We can teach your guests a variety of barn dances from including contra, line, and square dances!
+
+  - name : "Just DJ 🎵"
+    thumb: "images/offerings/melody.jpg"
+    content : |
+      Don’t want to learn new dances? No problem, we’re happy to stick to the background and keep the beats coming.
+
+  - name : "Kid Friendly 👧🏼"
+    thumb: "images/offerings/frogs_headphone.jpg"
+    content : |
+      All of our music and behavior is appropriate for all ages.
+
+  - name : "Team Building 👫"
+    thumb: "images/offerings/hand-group-people.jpg"
+    content : |
+      Square dancing is a great team-building exercise. It’s a cooperative activity that enhances people skills.
+      <p/>
+      Give us an hour, and your team will be dancing in harmony!
+
+  - name : "Variety Of Music 💿"
+    thumb: "images/offerings/book-record-music-vinyl.jpg"
+    content : |
+      You see barn dance and think country western, don’t you? 
+      We can play country, along with pop, rock, new wave, standards, classical, childrens' songs, 
+      Christmas tunes, blues, and alternative from across the past eighty years of recorded music. 
+      With over 12,000 legally purchased songs in our growing collection, 
+      we’ll work with you to put together the right mix for your event.
+
+  - name : "Community Dance Program 🏠"
+    thumb: "images/offerings/community-dance.jpg"
+    content : |
+      Want more than just a party night? We can work with your club, church, school, or association 
+      to offer an ongoing square dance program.
+      <p/>
+      Because of our passion for the activity, we offer discounted rates for these ongoing classes.
+
+  - name : "Legalities Covered 👮"
+    thumb: "images/offerings/legal.jpg"
+    content : |
+      Did you know that the event organizer is responsible for licensing to play copyright music? Yikes! 
+      Not to worry, we have you covered with BMI and ASCAP licenses for public performances. 
+      We are also insured.
+
+  - name : "Carbon Neutral"
+    thumb: "images/offerings/carbon-neutral.png"
+    content : |
+      We believe in enjoying life in a sustainable way. When possible, we’ll arrive in an EV charged up with solar energy.
+      For all events, we buy carbon credits to offset our transportation and energy use.

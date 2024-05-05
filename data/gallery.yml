@@ -1,0 +1,20 @@
+title: "Gallery"
+style: "style2 medium lightbox onscroll-fade-in"
+content:
+pictures:
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/people-summer-celebration-dance-colorful-blonde-910622-pxhere.com.jpg"
+    thumb: "images/gallery/people-summer-celebration-dance-colorful-blonde-910622-pxhere.com.jpg"
+    button: "View"
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/silhouette-bridge-dance-color-foot-lighting-1064625-pxhere.com.jpg"
+    thumb: "images/gallery/silhouette-bridge-dance-color-foot-lighting-1064625-pxhere.com.jpg"
+    button: "View"
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/silhouette-bridge-evening-dance-foot-lighting-1064689-pxhere.com.jpg"
+    thumb: "images/gallery/silhouette-bridge-evening-dance-foot-lighting-1064689-pxhere.com.jpg"
+    button: "View"
+

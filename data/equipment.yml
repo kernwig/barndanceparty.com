@@ -1,0 +1,58 @@
+####################### Banner #########################
+style: "style5 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right invert"
+id: equipment
+title : "Equipment & Fees"
+subtitle:
+image: "images/barn.jpg"
+content : |
+  <p>
+    Below is the guide to our services, equipment, and fees to give you an idea of what is available.
+    <a href="#contact">Contact</a> us to discuss what you are looking for,
+    and we can put a custom combination together just for you!</p>
+  </p>
+  
+  <h3>One-time Parties 💃🎶🕺🏻</h2>
+
+  <h4>Standard packages, time, and mileage:</h3>
+  <p>
+    👫 Two dance callers/DJs*, because it's more fun together! ($60/<em>performance</em> hour)<br>
+    🎵 Over 12,000 song tracks on hand. All legally purchased and licensed for public performance. (included!)<br>
+  </p>
+  <p>
+    💻 Base package: computers, microphones, sound mixer, audio cables. and electrical extension cords ($15), plus <em>one</em>
+    of the following:<br>
+    🔈 Medium mono sound package: Single 8" pro speaker and stand ($15) <br>
+    🔈 Medium stereo sound package: Twin 8" pro speakers and stands ($25) <br>
+    🔊 Jumbo mono sound package: Single 12" pro speaker and stand ($25)<br>
+    🔊 Jumbo stereo sound package: Twin 12" speakers and stands ($40)
+  </p>
+
+  <p>🚘 Travel to most of Orange, LA, Riverside, San Bernardino, and San Diego. ($1.20/mile from 92676)</p>
+
+  <p><em>
+    * While we plan to do events together and never double book, only one caller/DJ is guaranteed.
+      Our team is your built-in backup should one person be or become unavailable.</em>
+  </p>
+
+  <h4>Add ons:</h3>
+  <p>
+    🔲 Table with black cloth and stool. ($10)<br>
+    🔊 Portable subwoofer for <em>extra</em> base; suitable for most indoor and small outdoor spaces ($15)<br>
+    🚨 Light Effects Bar for your dance party, with two derbies, two PARs, lasers, and strobe ($25)<br>
+    ⛺ Shade Canopy - small 8' x 8' ($15) or large 12' x 12' ($25)<br>
+    🔋 Battery power - we can power all our equipment without a noisy &amp; smelly generator ($30)<br>
+  </p>
+
+  <h4>Discounts:</h3>
+  <p>
+    🎗️ Charity or non-profit: 20%<br>
+    🤠 Square Dancing: 20%<br>
+    🕰 Bulk (long event) discount: 10%<br>
+  </p>
+
+  <h3>Ongoing Community Dances 👨‍👩‍👧‍👦</h1>
+  <p>
+    DJ'ing is a blast, but our first passion is introducing people to American folk dancing.
+    If you are looking for an ongoing class for your community, a door fee structure may make more sense.
+    <a href="#contact">Contact us</a> and we will work something out!
+  </p>

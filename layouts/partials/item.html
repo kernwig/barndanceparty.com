@@ -1,0 +1,10 @@
+<section>
+  {{ with .icon }}<span class="icon {{.}}"></span>{{ end }}
+  {{ with .thumb }}
+  <div class="image">
+    <img src="{{ . }}"/>
+  </div>
+  {{ end }}
+  <h3>{{ .name }}</h3>
+  <p>{{ .content  | safeHTML }}</p>
+</section>

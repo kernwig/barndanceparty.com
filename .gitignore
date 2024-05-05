@@ -1,0 +1,7 @@
+.DS_Store
+/.hugo_build.lock
+/.idea
+/public
+/resources
+/static/images/gallery
+/themes/hugo-story/exampleSite
