@@ -1,9 +1,9 @@
 ####################### Banner #########################
-style: "style3 orient-left content-align-center image-position-center fullscreen onload-image-fade-in onload-content-fade-right"
+style: "style3 orient-left content-align-center image-position-center fullscreen onload-content-fade-right onload-image-fade-left"
 id: "top"
 title: "Barn Dance Party"
-subtitle: "Music and callers for your party! 🎉"
-image: "images/logo-circle-wood-small.png"
+subtitle: "Southern California callers and DJs for your party, community, barn dance, square dance, and any occasion! 🎉"
+image: "images/logo-circle-wood-xsmall.png"
 content: |
   <p>
     Anybody can stream some music from their phone into a little speaker.
@@ -20,9 +20,6 @@ content: |
   <p>
     We’re a husband & wife duo, doing what we love! 😍
   </p>
-  <p>
-    Keep reading to learn more about us and what we offer…
-  </p>
 #button:
 #  label : "Learn More"
 #  link : "#first"
@@ -30,20 +27,15 @@ buttons:
   - row:
       - label: "🎤 Your Callers & DJs"
         link: "#callers"
-        style: "primary"
-      - label: "What We Offer"
+      - label: "🎵 What We Offer"
         link: "#offerings"
-        style: "primary icon solid fa-music"
-      - label: "Contact"
+      - label: "📞 Contact"
         link: "#contact"
-        style: "primary icon solid fa-phone"
   - row:
       - label: "🔎 Past Highlights"
         link: "#highlights"
-      - label: "Equipment & Fees"
+      - label: "🔊 Equipment & Fees"
         link: "#equipment"
-        style: "icon solid fa-volume-high"
-      - label: "Payment Methods"
+      - label: "💲 Payment Methods"
         link: "#payments"
-        style: "icon solid fa-cart-shopping"
 

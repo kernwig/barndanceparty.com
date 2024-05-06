@@ -3,21 +3,19 @@ id: "contact"
 content: |
   Based in Silverado California, we are available to Orange and L.A. counties, and most of Riverside, San Bernardino, and San Diego counties.
 
-style: "style1 small onscroll-fade-in"
+style: "style1 small onload-fade-in"
 items:
-  - name : "Phone"
+  - name : "📞 Phone"
     content : |
       <a href="tel:9498556599">(949) 855-6599</a>
-    icon : "solid style2 major fa-phone"
 
-  - name : "Email"
+  - name : "📧 Email"
     content : |
       <a href="email:info@barndanceparty.com">info@barndanceparty.com</a>
-    icon: "solid style2 major fa-envelope"
-    
+
   - name : "Add Contact"
+    middleImage: "images/BDP-vcard.png"
     content : |
       <img href="images/BDP-vcard.png"></img>
-    icon: "solid style2 major fa-address-card"
-    thumb: "images/BDP-vcard.png"
+      Scan to add to your Contacts
     

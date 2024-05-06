@@ -35,10 +35,10 @@ disableKinds = ["taxonomy", "section"]
 ## -----------------------------------------------
 
 [Params]
-description = "Southern California callers and DJs for your party, community, barn dance, square dance, or whatever the occasion!"
+description = "Southern California callers and DJs for your party, community, barn dance, square dance, and the occasion!"
 #logo = "images/banner.jpg"
 favicon = true
 
 [Params.asset]
-fontawesome_css = ["css/fontawesome-all.min.css"]
-fontawesome_js = []
+#fontawesome_css = ["css/fontawesome-all.min.css"]
+#fontawesome_js = []

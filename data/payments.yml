@@ -3,16 +3,14 @@ id: "payments"
 content: |
   Need to pay a <b>deposit</b> to secure your date, the <b>balance</b> at your event, or a <b>tip</b>?
   We accept several forms of payment for your convenience.
-style: "style1 medium onscroll-fade-in"
+style: "style1 medium onload-fade-in"
 items:
-  - name : "Check"
-    icon: "solid style2 major fa-money-check"
+  - name : "✔ Check"
     content : |
       Adam or Diana Fanello<br>
       PO Box 626, Silverado, CA 92676
 
-  - name : "Cash"
-    icon: "solid style2 major fa-money-bill"
+  - name : "💲 Cash"
     content : |
       Please do not mail cash for a deposit!
       <br>
@@ -20,13 +18,12 @@ items:
 
   - name : "Zelle"
     content : "info@barndanceparty.com"
-    thumb: "images/payments/zelle-logo.png"
+#    bottomImage: "images/payments/zelle-logo.png"
 
   - name : "Paypal"
-#    icon: "brands style2 major fa-paypal"
     content : "@barndanceparty"
-    thumb: "images/payments/paypal-qr.png"
+    bottomImage: "images/payments/paypal-qr.png"
 
   - name : "Venmo"
     content : "@barndanceparty"
-    thumb: "images/payments/venmo-qr.png"
+    bottomImage: "images/payments/venmo-qr.png"

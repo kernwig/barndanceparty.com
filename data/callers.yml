@@ -1,10 +1,10 @@
 title : "Your Callers & DJs"
 id: "callers"
 content: ""
-style: "style1 medium onscroll-fade-in"
+style: "style1 medium onload-fade-in"
 items:
   - name : "Diana Fanello 💃"
-    thumb: "images/callers/diana.jpg"
+    topImage: "images/callers/diana.jpg"
     content : |
       <p>
         Diana’s first passion has always been in music. 
@@ -18,7 +18,7 @@ items:
       </p>
 
   - name : "Adam Fanello 🕺"
-    thumb: "images/callers/adam.jpg"
+    topImage: "images/callers/adam.jpg"
     content : |
       <p>
         Adam discovered his latent dance skills in the early 2000’s. Combined with his passion for sharing knowledge, 
@@ -37,7 +37,7 @@ items:
       </p>
 
   - name : "Adam & Diana 💃🕺"
-    thumb: "images/callers/couple.jpg"
+    topImage: "images/callers/couple.jpg"
     content : |
       <p>
         Adam and Diana met in 2012 in square dance class; Adam as an “angel” helper and Diana returning to the activity.
