@@ -1,7 +1,7 @@
 title : "What We Offer"
 id: "offerings"
 content: ""
-style: "style3 small onload-fade-in"
+style: "style3 small onscroll-fade-in"
 items:
   - name : "Teaching 👣"
     topImage: "images/offerings/ballroom2.jpg"

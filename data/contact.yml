@@ -3,7 +3,7 @@ id: "contact"
 content: |
   Based in Silverado California, we are available to Orange and L.A. counties, and most of Riverside, San Bernardino, and San Diego counties.
 
-style: "style1 small onload-fade-in"
+style: "style1 small onscroll-fade-in"
 items:
   - name : "📞 Phone"
     content : |

@@ -3,7 +3,7 @@ id: "payments"
 content: |
   Need to pay a <b>deposit</b> to secure your date, the <b>balance</b> at your event, or a <b>tip</b>?
   We accept several forms of payment for your convenience.
-style: "style1 medium onload-fade-in"
+style: "style1 medium onscroll-fade-in"
 items:
   - name : "✔ Check"
     content : |

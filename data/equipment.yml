@@ -1,5 +1,5 @@
 ####################### Banner #########################
-style: "style5 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right invert"
+style: "style5 orient-left content-align-left image-position-right fullscreen onscroll-content-fade-right invert"
 id: equipment
 title : "Equipment & Fees"
 subtitle:

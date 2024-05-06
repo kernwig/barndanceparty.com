@@ -1,7 +1,7 @@
 title : "Your Callers & DJs"
 id: "callers"
 content: ""
-style: "style1 medium onload-fade-in"
+style: "style1 medium onscroll-fade-in"
 items:
   - name : "Diana Fanello 💃"
     topImage: "images/callers/diana.jpg"
