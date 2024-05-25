@@ -1,0 +1,65 @@
+title : "💬 Quick Testimonials"
+id: "testimonials"
+content: Here's some more testimonials!
+style: "style3 big onscroll-fade-in"
+items:
+  - name : "Kids DJ 2023"
+    content : |
+      <b>Highly Recommend!</b><br>
+      If you need a DJ/entertainer for the night, these are your people!!!! Diana was so sweet and the kids loved her! We had them come to our girls cheer banquet, with about 60 guests and a lot of rambunctious kiddos ready to party! She played great music, led so games including limbo and freeze dance, as well as played photographer for us for a large group photo! They went above and beyond! Will absolutely have them for our next event!
+      <br><i>- Ashley of Lake Forest</i>
+
+  - name : "Girl Scouts 2024"
+    content : |
+      <b>Amazing barn dance party</b><br>
+      They were amazing with our girl scout troop! The barn dance was a hit and the dads and girls cannot wait to do it again next year. None of them ever tried square dancing and they loved it. Easy instructions and was fun!!! They played great music during the breaks and even some line dancing was done!
+      <br><i>- Angela of Agoura Hills</i>
+
+  - name : "Father Daughter Dance 2023"
+    content : |
+      <b>Thank You for a Great Dance</b><br>
+      Diane and Adam did a wonderful job last night and everyone had a good time. The girls and dad were also were introduced to Square Dancing for the first time and I saw lots of smiles. Diane and Adam were a great team to work with to make our event successful.
+      <br><i>- Debie of Sherman Oaks</i>
+
+  - name : "School Carnival 2022"
+    content : |
+      <b>Highly recommend Barn Dance Party</b><br>
+      We hired Barn Dance Party for a school fundraiser and they had everyone on their feet dancing! What a treat! Love this couple so much!
+      <br><i>- Jenne of Orange</i>
+
+  - name : "Square Dance Birthday 2021"
+    content : |
+      <b>Amazing!</b><br>
+      Adam and Diana were incredible. So gracious and go-with-the-flow! They made my grandma’s 80th surprise birthday party a huge hit!
+      <br><i>- Alyssa of Chino</i>
+
+  - name : "Wedding 2019"
+    content : |
+      <b>Very pleased!</b><br>
+      My bride and I (and all our guests) thoroughly enjoyed square dancing at our wedding. Basically everyone there (myself included) knew zero about square dancing at the start, but by the end we were dancing like pros! Thanks Adam and Diana!
+      <br><i>- Caleb of Fillmore</i>
+
+  - name : "Block Party 2019"
+    content : |
+      <b>Great dancing in the street at our block party</b><br>
+      Adam and Diana were very professional (arrived early, were ready to go on time and brought all the equipment they promised), but also a lot of fun. They were flexible in dealing with our group of diverse ages and experience, and taught us a lot of fun moves and dances. They led us through line dances, square dances, and contra dances. We would hire them again.
+      <br><i>- Lynn of Santa Monica</i>
+
+  - name : "Church Youth 2019"
+    content : |
+      <b>Great with groups of beginners</b><br>
+      Diana and Adam arrived early, were flexible and made the event fun for 50 - 60 teen and pre-teen youth. If you can get them both like we did it is a special treat indeed. It was everything we had hoped for and more.
+      <br><i>- Robert of Whittier</i>
+
+  - name : "Ranch Wedding 2019"
+    content : |
+      <b>Great music at a great wedding</b><br>
+      These guys were super great as both square dance callers and wedding DJs. They provided excellent music during the ceremony, cocktail hour, rehearsal and dancing. They also taught us to square dance and played your standard wedding pop music so almost everyone got on the floor.
+      <br><i>- Sarah of Fillmore</i>
+
+#  - name : ""
+#    content : |
+#      <b></b><br>
+#
+#      <br><i>-  of </i>
+#
