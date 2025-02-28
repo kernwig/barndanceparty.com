@@ -20,7 +20,7 @@ items:
     content : "info@barndanceparty.com"
 #    bottomImage: "images/payments/zelle-logo.png"
 
-  - name : "Credit card - Debit card - Paypal - Venmo - Apple Pay"
+  - name : "Credit card - Debit card - Paypal - Venmo"
     content : |
       (We incur a 3% service fee - please consider the other options.)
       
