@@ -1,4 +1,4 @@
-title: "🔎 Highlight: Club Square Dance Caller – 2024"
+title: "🔎 Highlight: Club Square Dance Caller – 2024 & 2025"
 style: "style1 medium lightbox onscroll-fade-in"
 content: |
   <p>Starting with January 2024, Adam with Barn Dance Party is the official club caller for the Hand ‘n Hand Square Dance club!</p>
@@ -7,9 +7,20 @@ content: |
     and am honored to be selected. Every week, Barn Dance Party calls and teaches square dance, 
     line dance, contra, and other fun dances for this wonderful group.
   </p>
-  (Photo are during line dancing, since I'm too busy for photos while calling. 😉)
 
 pictures:
+  - title: "Calling with Diana"
+    image: "images/highlight-handnhand/adam-calling-diana.jpg"
+    thumb: "images/highlight-handnhand/adam-calling-diana.jpg"
+    button: "View"
+  - title: "Square Dancers - Adam background"
+    image: "images/highlight-handnhand/adam-dancers.jpg"
+    thumb: "images/highlight-handnhand/adam-dancers-thumb.jpg"
+    button: "View"
+  - title: "Adam mid-call"
+    image: "images/highlight-handnhand/adam-calling.jpg"
+    thumb: "images/highlight-handnhand/adam-calling-thumb.jpg"
+    button: "View"
   - title: "Adam taking a moment"
     image: "images/highlight-handnhand/caller.jpg"
     thumb: "images/highlight-handnhand/caller-thumb.jpg"
